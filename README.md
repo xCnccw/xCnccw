@@ -5,5 +5,7 @@
 
 [![Augenstern-creator's GitHub stats](https://github-readme-stats.vercel.app/api?username=xCnccw)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://cdn.jsdelivr.net/gh/xCnccw/xCnccw/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xCnccw&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
