@@ -6,4 +6,4 @@
 [![Augenstern-creator's GitHub stats](https://github-readme-stats.vercel.app/api?username=xCnccw)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=xCnccw&theme=dracula">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xCnccw&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
