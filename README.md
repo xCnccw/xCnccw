@@ -8,4 +8,4 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=xCnccw)
 
 
-[![Ashutosh's github activity graph](ttps://github-readme-activity-graph.cyclic.app/graph?username=xCnccw&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xCnccw&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
